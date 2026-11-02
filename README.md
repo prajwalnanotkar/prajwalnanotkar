@@ -4,8 +4,6 @@
 
 <h1>Hey, I am Prajwal</h1>
 
-<p><strong>Founder of RetrivedMods</strong></p>
-
 <p><em>Just making random stuff because apparently being bored isn’t an option.</em></p>
 
 <h3>Languages & Tools I’ve Used</h3>
